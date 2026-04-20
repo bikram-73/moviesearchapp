@@ -1,3 +1,0 @@
-const CONFIG = {
-    TMDB_API_KEY: "a2756e5fe56391070822ff3bca824643"
-};
